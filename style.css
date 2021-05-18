@@ -1,0 +1,123 @@
+body{
+  font-family: 'Source Serif Pro', serif;
+}
+h1{
+  font-family: 'Lobster', cursive;
+}
+
+.link {
+
+  color: white;
+}
+.link:hover {
+  background-color: white;
+  color: black;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  font-size: 4rem;
+}
+.whitesection {
+  background-color: white;
+  text-align: center;
+  padding: 70px 70px;
+  margin-bottom: 2.5rem;
+}
+.blacksection {
+  background-color:rgb(61, 60, 60);
+  color: #fff;
+  text-align: center;
+  padding: 70px 70px;
+}
+.aboutp {
+  padding: 0 70px;
+}
+
+h4 {
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.fcontent {
+  text-align: center;
+}
+.pcontent {
+  text-align: center;
+  float: left;
+  padding: 5px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+.mycard {
+  text-align: center;
+  margin: 5% 25%;
+  height: 350px;
+  width: 600px;
+  box-shadow: 10px 10px 5px grey;
+}
+.card-header {
+  text-align: center;
+ 
+}
+.mybody {
+  flex: 0;
+}
+.roomsdiv {
+  margin: 3% 12%;
+}
+.roomimg {
+  height: 250px;
+  width: 450px;
+  float: left;
+  margin-right: 30px;
+  border: 5px solid #797777;
+  border-radius: 3px;
+}
+.roomcard {
+  height: 250px;
+  width: 450px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.contactp {
+  margin: 0 39px;
+  float: left;
+}
+footer {
+  background-color: black;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+}
+.name{
+  color:grey;
+  position: fixed;
+margin-right: 12px;
+font-family: 'Frank Ruhl Libre', serif;
+right: 5px;
+bottom: 2px;
+}
+.imgdiv{
+  margin: 20px ;
+}
+.myimg{
+  margin: 8px;
+  transition: transform .3s;
+  border: 5px solid #797777;
+  border-radius: 3px;
+}
+.myimg:hover{
+  transform: scale(1.3);
+}
+.service-card{
+  margin: 3% 15% ;
+  box-shadow: 10px 10px 5px grey;
+
+}
+p{
+  margin-top: 6px;
+
+}
+
+
