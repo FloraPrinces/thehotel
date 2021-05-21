@@ -71,7 +71,7 @@ h4 {
   width: 450px;
   float: left;
   margin-right: 30px;
-  border: 5px solid #797777;
+  border: 5px solid #000;
   border-radius: 3px;
 }
 .roomcard {
@@ -81,7 +81,7 @@ h4 {
 }
 
 .contactp {
-  margin: 0 39px;
+  margin: 0 32px;
   float: left;
 }
 footer {
@@ -104,7 +104,7 @@ bottom: 2px;
 .myimg{
   margin: 8px;
   transition: transform .3s;
-  border: 5px solid #797777;
+  border: 5px solid #000;
   border-radius: 3px;
 }
 .myimg:hover{
@@ -119,5 +119,10 @@ p{
   margin-top: 6px;
 
 }
-
+.loc{
+  color: #000;
+}
+.loc:hover{
+  color: #696969;
+}
 
